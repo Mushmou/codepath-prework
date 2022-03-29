@@ -39,10 +39,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-* [✔️] https://recordit.co/mzIxcC6mnj
-* ![](gif2-link-here)
-* ![](gif3-link-here)
-* ![](gif4-link-here)
+* [✔️] https://recordit.co/mzIxcC6mnj (Overview of game)
+* ![✔️] https://recordit.co/K8RmUxDqyU (Loss condition)
+* ![✔️] https://recordit.co/2I0rddmcse (Win condition)
+* ![✔️] https://recordit.co/QfF1dly6LC (Clue Hold Time changes)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
