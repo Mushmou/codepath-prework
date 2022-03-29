@@ -1,0 +1,184 @@
+
+body {
+  font-family: verdana, arial, sans-serif;
+  background-color: #23272A;
+  color:white;
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif;
+}
+
+
+#startBtn{
+  padding:10px; 
+  border-radius: 10px;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+}
+
+#stopBtn{
+  padding:10px; 
+  border-radius: 10px;
+  background-color: red; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+}
+#StartingArea{
+  text-align: center;
+}
+
+/* FIRST AREA FOR GAME BUTTONS */
+
+.gameButtonArea > button{
+  padding:10px; 
+  border-radius: 10px;
+  width:250px;
+  height:250px;
+  margin:20px;
+}
+.gameButtonArea{
+  margin:60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1{
+  background: #ec4145;
+}
+
+#button1:active, #button1.lit{
+  background-image: url("https://cdn.glitch.global/867df87e-6eba-40b1-b570-70e73b9836e3/duck.png?v=1648493302718");
+  background-size: contain;
+  background-position: center;
+  /* put the height and width of your image here */
+  height: 250px;
+  width: 250px;
+  border: none;
+}
+
+#button2{
+  background: #f9a62b;
+}
+
+#button2:active, #button2.lit{
+  background-image: url("https://cdn.glitch.global/867df87e-6eba-40b1-b570-70e73b9836e3/rabbit.png?v=1648496732773");
+  background-size: contain;
+  background-position: center;
+  /* put the height and width of your image here */
+  height: 250px;
+  width: 250px;
+  border: none;
+}
+
+#button3{
+  background: #EAE25B;
+}
+
+#button3:active, #button3.lit{
+  background-image: url("https://cdn.glitch.global/867df87e-6eba-40b1-b570-70e73b9836e3/bee.png?v=1648496945991");
+  background-size: 250px 250px;
+  background-position: center;
+  /* put the height and width of your image here */
+  height: 250px;
+  width: 250px;
+  border: none;
+}
+
+#button4{
+  background: #3da560;
+}
+
+#button4:active, #button4.lit{
+  background-image: url("https://cdn.glitch.global/867df87e-6eba-40b1-b570-70e73b9836e3/lion.png?v=1648497835922");
+  background-size: 250px 250px;
+  background-position: center;
+  /* put the height and width of your image here */
+  height: 250px;
+  width: 250px;
+  border: none;
+}
+
+
+
+/* SECOND AREA FOR GAME BUTTONS */
+.gameButtonAreaTwo > button{
+  padding:10px; 
+  border-radius: 10px;
+  width:250px;
+  height:250px;
+  margin:20px;
+}
+.gameButtonAreaTwo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* Add the extra buttons */
+#button5{
+  background: #5866ef;
+}
+
+#button5:active, #button5.lit{
+  background-image: url("https://cdn.glitch.global/867df87e-6eba-40b1-b570-70e73b9836e3/ant.png?v=1648497965426");
+  background-size: 250px 250px;
+  background-position: center;
+  /* put the height and width of your image here */
+  height: 250px;
+  width: 250px;
+  border: none;
+}
+
+#button6{
+  background: #583694;
+}
+
+#button6:active, #button6.lit{
+  background-image: url("https://cdn.glitch.global/867df87e-6eba-40b1-b570-70e73b9836e3/ladybug.png?v=1648498022389");
+  background-size: 250px 250px;
+  background-position: center;
+  /* put the height and width of your image here */
+  height: 250px;
+  width: 250px;
+  border: none;
+}
+
+#button7{
+  background: purple;
+}
+
+#button7:active, #button7.lit{
+  background-image: url("https://cdn.glitch.global/867df87e-6eba-40b1-b570-70e73b9836e3/bird.png?v=1648498020144");
+  background-size: 250px 250px;
+  background-position: center;
+  /* put the height and width of your image here */
+  height: 250px;
+  width: 250px;
+  border: none;
+}
+
+#button8{
+  background: violet;
+}
+
+#button8:active, #button8.lit{
+  background-image: url("https://cdn.glitch.global/867df87e-6eba-40b1-b570-70e73b9836e3/dog.png?v=1648498024700");
+  background-size: 250px 250px;
+  background-position: center;
+  /* put the height and width of your image here */
+  height: 250px;
+  width: 250px;
+  border: none;
+}
