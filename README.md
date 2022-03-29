@@ -6,7 +6,7 @@ Submitted by: Noah Jacinto
 
 Time spent: 15 hours spent in total
 
-Link to project: (insert your link here, should start with https://lightandsound-game.glitch.me/)
+Link to project: https://lightandsound-game.glitch.me/
 
 ## Required Functionality
 
@@ -39,8 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![✔️]
-(https://recordit.co/mzIxcC6mnj)
+![✔️] https://recordit.co/mzIxcC6mnj
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
