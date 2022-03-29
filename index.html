@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content = "IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Light and Sound Game!</title>
+    
+<!--Import the stylesheet-->
+    <link rel="stylesheet" href="/style.css">
+    
+<!--Import the javascript file-->
+    <script src="/script.js"></script>
+  </head>
+  <body>
+    
+<!--Insert the header here-->
+    <div id="StartingArea">
+      
+    <h1>Light and Sound Memory Game</h1>
+    
+<!--Short description of the game-->
+    <p>
+      Repeat back the patterns to win.
+    </p>
+      
+<!--Start and Stop buttons-->
+    <div class = "startStop">
+    <button id="startBtn" onclick ="startGame()">Start</button>
+    <button id="stopBtn" class="hidden" onclick ="stopGame()">Stop</button>
+    </div>
+    </div>
+
+    
+
+    
+<!--Make the game button area-->
+    <div class="gameButtonArea">
+      <button id="button1" onclick="guess(1)" onmousedown="startTone(1)" onmouseup="stopTone()"><div id="duck"></div></button>
+      <button id="button2" onclick="guess(2)" onmousedown="startTone(2)" onmouseup="stopTone()"><div id="rabbit"></div></button>
+      <button id="button3" onclick="guess(3)" onmousedown="startTone(3)" onmouseup="stopTone()"><div id="bee"></div></button>
+      <button id="button4" onclick="guess(4)" onmousedown="startTone(4)" onmouseup="stopTone()"><div id="lion"></div></button>
+<!--Added optional parts-->
+<!--       <button id="button5" onclick="guess(5)" onmousedown="startTone(5)" onmouseup="stopTone()"><div id="ant"></div></button>
+      <button id="button6" onclick="guess(6)" onmousedown="startTone(6)" onmouseup="stopTone()"><div id="ladybug"></div></button>
+      <button id="button7" onclick="guess(7)" onmousedown="startTone(7)" onmouseup="stopTone()"><div id="bird"></div></button>
+      <button id="button8" onclick="guess(8)" onmousedown="startTone(8)" onmouseup="stopTone()"><div id="dog"></div></button> -->
+    </div>
+    
+    <div class = "gameButtonAreaTwo">
+      <button id="button5" onclick="guess(5)" onmousedown="startTone(5)" onmouseup="stopTone()"><div id="ant"></div></button>
+      <button id="button6" onclick="guess(6)" onmousedown="startTone(6)" onmouseup="stopTone()"><div id="ladybug"></div></button>
+      <button id="button7" onclick="guess(7)" onmousedown="startTone(7)" onmouseup="stopTone()"><div id="bird"></div></button>
+      <button id="button8" onclick="guess(8)" onmousedown="startTone(8)" onmouseup="stopTone()"><div id="dog"></div></button>
+    </div>
+  </body>
+</html>
