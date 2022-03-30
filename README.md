@@ -46,10 +46,10 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-* https://www.w3schools.com/
-* https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps
-* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-* https://glitch.com/
+https://www.w3schools.com/
+https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://glitch.com/
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
