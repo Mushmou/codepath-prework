@@ -34,15 +34,15 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] List anything else that you can get done to improve the app!
+* [X] List anything else that you can get done to improve the app!
 * Transition from colored buttons to images
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-! [X] https://recordit.co/mzIxcC6mnj (Overview of game)
-! [X] https://recordit.co/K8RmUxDqyU (Loss condition)
-! [X] https://recordit.co/2I0rddmcse (Win condition)
-! [X] https://recordit.co/QfF1dly6LC (Clue Hold Time changes)
+* [X] https://recordit.co/mzIxcC6mnj (Overview of game)
+* [X] https://recordit.co/K8RmUxDqyU (Loss condition)
+* [X] https://recordit.co/2I0rddmcse (Win condition)
+* [X] https://recordit.co/QfF1dly6LC (Clue Hold Time changes)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
