@@ -65,7 +65,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://youtu.be/sMM0PJ0okro)
+[Noah Jacinto 5-Minute Interview Recording](https://youtu.be/sMM0PJ0okro)
 
 ## License
 
