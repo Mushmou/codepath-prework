@@ -1,10 +1,10 @@
 # Pre-work - Light and Sound Memory Game
 
-**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**Memory Game** is a Light & Sound Memory game to apply for Futureforce Tech Launchpad (FTL)
 
 Submitted by: Noah Jacinto
 
-Time spent: 15 hours spent in total
+Time spent: 20 hours spent in total
 
 Link to project: https://lightandsound-game.glitch.me/
 
